@@ -1,2 +1,3 @@
 # Login-form-design
-This is a simple design of a sign in page of a photography workshop
+This is a simple design of a SignIn page of a photography workshop using Html5,CSS3,Javascripts
+Take a look at the project:
